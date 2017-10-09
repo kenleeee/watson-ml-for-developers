@@ -1,0 +1,1001 @@
+id,cc_number,city,state,country,amount,fraud,in_store,online
+1,1234,Lakewood,WA,US,1392.85,1,true,false
+2,1234,Everett,WA,US,564.6,1,true,false
+3,1234,San Francisco,CA,US,1336.01,1,true,false
+4,1234,Las Vegas,NV,US,993.06,1,false,true
+5,1234,Fresno,CA,US,103.56,1,true,false
+6,1234,Seattle,WA,US,1274.18,1,true,false
+7,1234,Bakersfield,CA,US,255.58,1,false,true
+8,1234,Seattle,WA,US,672.74,1,true,false
+9,1234,Fresno,CA,US,383.81,1,false,true
+10,1234,Henderson,NV,US,298.0,1,true,false
+11,1234,San Francisco,CA,US,774.47,1,false,true
+12,1234,Oxnard,CA,US,1480.87,1,false,true
+13,1234,Oxnard,CA,US,556.38,1,true,false
+14,1234,Corona,CA,US,125.34,1,true,false
+15,1234,Sacramento,CA,US,1240.27,1,false,true
+16,1234,Los Angeles,CA,US,281.92,1,true,false
+17,1234,Concord,CA,US,114.49,1,false,true
+18,1234,Whittier,CA,US,1477.64,1,true,false
+19,1234,Portland,OR,US,452.33,1,true,false
+20,1234,Santa Monica,CA,US,586.02,1,false,true
+21,1234,Los Angeles,CA,US,179.81,1,true,false
+22,1234,Orange,CA,US,1154.97,1,false,true
+23,1234,Sacramento,CA,US,359.01,1,true,false
+24,1234,Carlsbad,CA,US,1353.97,1,true,false
+25,1234,Long Beach,CA,US,211.75,1,false,true
+26,1234,Pasadena,CA,US,733.71,1,false,true
+27,1234,Seattle,WA,US,298.85,1,false,true
+28,1234,Lancaster,CA,US,867.98,1,false,true
+29,1234,San Francisco,CA,US,1415.47,1,false,true
+30,1234,Anaheim,CA,US,574.69,1,false,true
+31,1234,Santa Clara,CA,US,956.36,1,false,true
+32,1234,Reno,NV,US,1298.15,1,false,true
+33,1234,San Jose,CA,US,14.47,1,false,true
+34,1234,San Jose,CA,US,1061.75,1,false,true
+35,1234,Olympia,WA,US,1476.8,1,false,true
+36,1234,San Diego,CA,US,25.34,1,true,false
+37,1234,Las Vegas,NV,US,1428.41,1,false,true
+38,1234,Las Vegas,NV,US,1271.72,1,false,true
+39,1234,Palmdale,CA,US,943.94,1,false,true
+40,1234,Portland,OR,US,1469.78,1,true,false
+41,1234,Carson City,NV,US,205.68,1,false,true
+42,1234,Visalia,CA,US,998.35,1,true,false
+43,1234,Escondido,CA,US,742.85,1,false,true
+44,1234,San Diego,CA,US,1149.43,1,false,true
+45,1234,San Francisco,CA,US,801.33,1,true,false
+46,1234,Reno,NV,US,141.29,1,true,false
+47,1234,Sacramento,CA,US,220.27,1,false,true
+48,1234,San Jose,CA,US,539.6,1,true,false
+49,1234,San Diego,CA,US,455.05,1,true,false
+50,1234,Santa Barbara,CA,US,920.07,1,true,false
+51,1234,Sacramento,CA,US,1333.86,1,true,false
+52,1234,San Bernardino,CA,US,314.95,1,true,false
+53,1234,Los Angeles,CA,US,900.44,1,false,true
+54,1234,Fresno,CA,US,198.15,1,false,true
+55,1234,Tacoma,WA,US,24.16,1,true,false
+56,1234,Salem,OR,US,779.12,1,true,false
+57,1234,Reno,NV,US,41.66,1,true,false
+58,1234,Inglewood,CA,US,284.7,1,true,false
+59,1234,Fresno,CA,US,4.95,1,true,false
+60,1234,Fresno,CA,US,467.25,1,false,true
+61,1234,San Diego,CA,US,1286.73,1,false,true
+62,1234,North Hollywood,CA,US,363.5,1,false,true
+63,1234,Chico,CA,US,1468.29,1,true,false
+64,1234,San Jose,CA,US,1050.02,1,true,false
+65,1234,Sacramento,CA,US,874.19,1,true,false
+66,1234,Los Angeles,CA,US,1279.81,1,false,true
+67,1234,Berkeley,CA,US,1422.62,1,false,true
+68,1234,San Diego,CA,US,1096.79,1,false,true
+69,1234,Sacramento,CA,US,1315.89,1,true,false
+70,1234,Stockton,CA,US,982.59,1,true,false
+71,1234,San Diego,CA,US,844.42,1,false,true
+72,1234,Los Angeles,CA,US,833.65,1,false,true
+73,1234,San Bernardino,CA,US,1088.29,1,true,false
+74,1234,Las Vegas,NV,US,1436.96,1,false,true
+75,1234,Santa Clara,CA,US,1031.29,1,true,false
+76,1234,Richmond,CA,US,705.47,1,true,false
+77,1234,Pomona,CA,US,898.21,1,false,true
+78,1234,Tacoma,WA,US,999.06,1,true,false
+79,1234,Anaheim,CA,US,245.31,1,true,false
+80,1234,Sacramento,CA,US,828.74,1,true,false
+81,1234,Bakersfield,CA,US,244.05,1,false,true
+82,1234,Vancouver,WA,US,1313.92,1,false,true
+83,1234,Fresno,CA,US,1139.73,1,false,true
+84,1234,Whittier,CA,US,1478.23,1,false,true
+85,1234,Sacramento,CA,US,1314.1,1,true,false
+86,1234,Santa Cruz,CA,US,973.09,1,true,false
+87,1234,Carson City,NV,US,345.13,1,true,false
+88,1234,Eugene,OR,US,1245.46,1,false,true
+89,1234,Las Vegas,NV,US,1477.28,1,true,false
+90,1234,Reno,NV,US,1211.97,1,false,true
+91,1234,Newport Beach,CA,US,619.21,1,true,false
+92,1234,Sacramento,CA,US,1347.39,1,true,false
+93,1234,San Francisco,CA,US,416.6,1,true,false
+94,1234,Orange,CA,US,1100.45,1,true,false
+95,1234,Fresno,CA,US,1275.83,1,true,false
+96,1234,Fresno,CA,US,136.6,1,false,true
+97,1234,Reno,NV,US,655.95,1,true,false
+98,1234,Pasadena,CA,US,168.41,1,false,true
+99,1234,Burbank,CA,US,1047.79,1,false,true
+100,1234,Santa Cruz,CA,US,63.94,1,false,true
+101,1234,Salem,OR,US,175.06,1,true,false
+102,1234,Sacramento,CA,US,613.05,1,false,true
+103,1234,Vancouver,WA,US,152.1,1,false,true
+104,1234,Sacramento,CA,US,734.67,1,true,false
+105,1234,Anaheim,CA,US,470.88,1,true,false
+106,1234,Everett,WA,US,836.69,1,false,true
+107,1234,Pasadena,CA,US,683.63,1,true,false
+108,1234,Long Beach,CA,US,834.53,1,false,true
+109,1234,Fresno,CA,US,989.99,1,false,true
+110,1234,San Diego,CA,US,941.42,1,false,true
+111,1234,Petaluma,CA,US,135.27,1,true,false
+112,1234,Huntington Beach,CA,US,316.43,1,true,false
+113,1234,North Las Vegas,NV,US,890.95,1,true,false
+114,1234,Sacramento,CA,US,930.33,1,true,false
+115,1234,Fresno,CA,US,1319.81,1,true,false
+116,1234,Stockton,CA,US,166.98,1,false,true
+117,1234,San Francisco,CA,US,17.16,1,true,false
+118,1234,Oakland,CA,US,1491.16,1,false,true
+119,1234,Seattle,WA,US,154.79,1,true,false
+120,1234,Henderson,NV,US,674.28,1,false,true
+121,1234,Las Vegas,NV,US,383.91,1,true,false
+122,1234,Pasadena,CA,US,431.32,1,true,false
+123,1234,Vancouver,WA,US,675.59,1,false,true
+124,1234,Anaheim,CA,US,41.3,1,false,true
+125,1234,San Diego,CA,US,815.8,1,false,true
+126,1234,San Rafael,CA,US,137.21,1,true,false
+127,1234,Orange,CA,US,591.0,1,false,true
+128,1234,San Rafael,CA,US,233.0,1,false,true
+129,1234,Sacramento,CA,US,414.4,1,false,true
+130,1234,Las Vegas,NV,US,1281.93,1,true,false
+131,1234,Brea,CA,US,914.51,1,false,true
+132,1234,San Jose,CA,US,458.47,1,false,true
+133,1234,San Francisco,CA,US,976.68,1,true,false
+134,1234,San Diego,CA,US,622.8,1,true,false
+135,1234,Sacramento,CA,US,1420.09,1,false,true
+136,1234,Concord,CA,US,942.53,1,false,true
+137,1234,Fresno,CA,US,712.69,1,false,true
+138,1234,Stockton,CA,US,853.1,1,true,false
+139,1234,San Francisco,CA,US,91.74,1,false,true
+140,1234,San Francisco,CA,US,483.39,1,false,true
+141,1234,Fullerton,CA,US,135.99,1,false,true
+142,1234,North Hollywood,CA,US,93.19,1,false,true
+143,1234,Las Vegas,NV,US,130.78,1,false,true
+144,1234,Las Vegas,NV,US,861.85,1,true,false
+145,1234,Modesto,CA,US,249.58,1,true,false
+146,1234,Spokane,WA,US,330.46,1,false,true
+147,1234,Sacramento,CA,US,840.36,1,true,false
+148,1234,Sacramento,CA,US,1047.37,1,false,true
+149,1234,Stockton,CA,US,520.28,1,true,false
+150,1234,Eugene,OR,US,199.07,1,true,false
+151,1234,Spokane,WA,US,860.72,1,false,true
+152,1234,San Jose,CA,US,498.7,1,false,true
+153,1234,Whittier,CA,US,1197.02,1,false,true
+154,1234,Vancouver,WA,US,1466.23,1,false,true
+155,1234,Henderson,NV,US,1158.78,1,true,false
+156,1234,Tacoma,WA,US,658.58,1,false,true
+157,1234,Eugene,OR,US,1244.47,1,false,true
+158,1234,Concord,CA,US,740.21,1,false,true
+159,1234,Beaverton,OR,US,863.7,1,false,true
+160,1234,San Francisco,CA,US,1066.54,1,true,false
+161,1234,Escondido,CA,US,1188.1,1,false,true
+162,1234,Bakersfield,CA,US,950.63,1,true,false
+163,1234,Santa Cruz,CA,US,1091.17,1,false,true
+164,1234,Carson City,NV,US,539.3,1,false,true
+165,1234,Las Vegas,NV,US,901.1,1,true,false
+166,1234,San Diego,CA,US,1480.74,1,true,false
+167,1234,Santa Barbara,CA,US,824.3,1,true,false
+168,1234,Pasadena,CA,US,611.01,1,false,true
+169,1234,Van Nuys,CA,US,894.98,1,false,true
+170,1234,Reno,NV,US,864.99,1,false,true
+171,1234,Los Angeles,CA,US,418.95,1,true,false
+172,1234,Las Vegas,NV,US,1267.22,1,false,true
+173,1234,San Francisco,CA,US,260.06,1,true,false
+174,1234,Spokane,WA,US,779.39,1,true,false
+175,1234,Kent,WA,US,802.05,1,false,true
+176,1234,Reno,NV,US,559.1,1,false,true
+177,1234,Portland,OR,US,142.62,1,false,true
+178,1234,Long Beach,CA,US,198.08,1,false,true
+179,1234,San Bernardino,CA,US,573.79,1,true,false
+180,1234,Henderson,NV,US,25.04,1,true,false
+181,1234,Torrance,CA,US,1163.5,1,false,true
+182,1234,Pasadena,CA,US,1441.72,1,false,true
+183,1234,San Jose,CA,US,1351.42,1,false,true
+184,1234,San Diego,CA,US,1219.62,1,true,false
+185,1234,Reno,NV,US,1236.83,1,false,true
+186,1234,Fresno,CA,US,557.97,1,false,true
+187,1234,Reno,NV,US,29.92,1,true,false
+188,1234,Sacramento,CA,US,98.65,1,false,true
+189,1234,Las Vegas,NV,US,363.24,1,true,false
+190,1234,Sacramento,CA,US,400.37,1,true,false
+191,1234,Tacoma,WA,US,188.98,1,true,false
+192,1234,Los Angeles,CA,US,428.23,1,false,true
+193,1234,Las Vegas,NV,US,258.09,1,false,true
+194,1234,Seattle,WA,US,1229.5,1,true,false
+195,1234,Garden Grove,CA,US,1045.35,1,true,false
+196,1234,Las Vegas,NV,US,1148.2,1,true,false
+197,1234,Los Angeles,CA,US,1139.46,1,true,false
+198,1234,Oakland,CA,US,1142.78,1,false,true
+199,1234,Sparks,NV,US,329.02,1,true,false
+200,1234,Torrance,CA,US,138.71,1,false,true
+201,1234,Fresno,CA,US,449.17,1,true,false
+202,1234,Carson City,NV,US,1248.06,1,true,false
+203,1234,Fresno,CA,US,1261.67,1,true,false
+204,1234,Spokane,WA,US,1337.13,1,false,true
+205,1234,Kent,WA,US,1170.23,1,false,true
+206,1234,Glendale,CA,US,815.86,1,true,false
+207,1234,Corona,CA,US,1346.41,1,true,false
+208,1234,Inglewood,CA,US,1281.53,1,false,true
+209,1234,Glendale,CA,US,1367.34,1,false,true
+210,1234,Portland,OR,US,66.14,1,true,false
+211,1234,San Jose,CA,US,636.28,1,true,false
+212,1234,Carlsbad,CA,US,796.47,1,false,true
+213,1234,Oakland,CA,US,64.66,1,true,false
+214,1234,San Bernardino,CA,US,259.95,1,true,false
+215,1234,Sparks,NV,US,1213.82,1,true,false
+216,1234,Sacramento,CA,US,912.86,1,false,true
+217,1234,Palo Alto,CA,US,215.99,1,true,false
+218,1234,Petaluma,CA,US,1487.48,1,true,false
+219,1234,Reno,NV,US,508.83,1,true,false
+220,1234,San Bernardino,CA,US,956.41,1,true,false
+221,1234,Whittier,CA,US,1080.28,1,true,false
+222,1234,Henderson,NV,US,86.52,1,true,false
+223,1234,Fresno,CA,US,1027.47,1,false,true
+224,1234,Pasadena,CA,US,223.78,1,true,false
+225,1234,Oceanside,CA,US,118.01,1,false,true
+226,1234,Santa Cruz,CA,US,556.17,1,true,false
+227,1234,Sacramento,CA,US,1336.06,1,false,true
+228,1234,Seattle,WA,US,173.68,1,true,false
+229,1234,Modesto,CA,US,649.39,1,false,true
+230,1234,Concord,CA,US,223.16,1,false,true
+231,1234,Bakersfield,CA,US,274.53,1,false,true
+232,1234,Los Angeles,CA,US,193.05,1,true,false
+233,1234,Tacoma,WA,US,530.99,1,true,false
+234,1234,Alhambra,CA,US,1493.64,1,false,true
+235,1234,Spokane,WA,US,564.69,1,false,true
+236,1234,San Diego,CA,US,1191.41,1,true,false
+237,1234,San Rafael,CA,US,782.22,1,true,false
+238,1234,Reno,NV,US,724.47,1,false,true
+239,1234,Pasadena,CA,US,689.48,1,false,true
+240,1234,Spokane,WA,US,1366.33,1,true,false
+241,1234,Fullerton,CA,US,623.14,1,true,false
+242,1234,San Diego,CA,US,1190.9,1,false,true
+243,1234,Irvine,CA,US,1267.08,1,true,false
+244,1234,Sacramento,CA,US,122.77,1,false,true
+245,1234,Palo Alto,CA,US,951.09,1,false,true
+246,1234,San Jose,CA,US,670.36,1,false,true
+247,1234,Los Angeles,CA,US,733.52,1,true,false
+248,1234,Glendale,CA,US,848.45,1,false,true
+249,1234,Whittier,CA,US,1353.3,1,true,false
+250,1234,Spokane,WA,US,1499.32,1,false,true
+251,1234,Los Angeles,CA,US,970.68,1,false,true
+252,1234,Las Vegas,NV,US,1197.21,1,false,true
+253,1234,Los Angeles,CA,US,877.21,1,true,false
+254,1234,Oakland,CA,US,270.59,1,false,true
+255,1234,San Jose,CA,US,882.39,1,false,true
+256,1234,Portland,OR,US,1436.87,1,false,true
+257,1234,North Hollywood,CA,US,506.25,1,false,true
+258,1234,Corona,CA,US,555.59,1,true,false
+259,1234,Seattle,WA,US,748.28,1,false,true
+260,1234,San Francisco,CA,US,494.48,1,true,false
+261,1234,Las Vegas,NV,US,262.14,1,false,true
+262,1234,Ventura,CA,US,1433.63,1,false,true
+263,1234,San Francisco,CA,US,1393.92,1,true,false
+264,1234,Las Vegas,NV,US,484.68,1,false,true
+265,1234,Santa Monica,CA,US,843.4,1,false,true
+266,1234,Portland,OR,US,1358.44,1,false,true
+267,1234,Riverside,CA,US,1419.56,1,true,false
+268,1234,San Jose,CA,US,923.08,1,true,false
+269,1234,Los Angeles,CA,US,410.98,1,false,true
+270,1234,Spokane,WA,US,1051.0,1,true,false
+271,1234,Brea,CA,US,1084.01,1,false,true
+272,1234,Los Angeles,CA,US,244.46,1,false,true
+273,1234,Seattle,WA,US,1243.4,1,false,true
+274,1234,Los Angeles,CA,US,318.03,1,false,true
+275,1234,Carlsbad,CA,US,818.76,1,true,false
+276,1234,Los Angeles,CA,US,842.26,1,true,false
+277,1234,Los Angeles,CA,US,1405.02,1,true,false
+278,1234,San Francisco,CA,US,552.52,1,true,false
+279,1234,San Jose,CA,US,711.59,1,false,true
+280,1234,Stockton,CA,US,534.75,1,false,true
+281,1234,Salinas,CA,US,1294.78,1,false,true
+282,1234,Bakersfield,CA,US,55.69,1,true,false
+283,1234,Olympia,WA,US,1083.58,1,false,true
+284,1234,Berkeley,CA,US,378.83,1,true,false
+285,1234,Fullerton,CA,US,586.58,1,true,false
+286,1234,Long Beach,CA,US,1333.85,1,false,true
+287,1234,Oakland,CA,US,1336.38,1,true,false
+288,1234,Glendale,CA,US,585.12,1,true,false
+289,1234,Moreno Valley,CA,US,506.69,1,false,true
+290,1234,Concord,CA,US,1170.7,1,false,true
+291,1234,Tacoma,WA,US,86.95,1,false,true
+292,1234,Sacramento,CA,US,396.32,1,false,true
+293,1234,Fullerton,CA,US,527.09,1,false,true
+294,1234,Everett,WA,US,902.99,1,true,false
+295,1234,Anaheim,CA,US,1350.72,1,false,true
+296,1234,San Jose,CA,US,1307.44,1,false,true
+297,1234,San Francisco,CA,US,360.05,1,false,true
+298,1234,Irvine,CA,US,1454.37,1,false,true
+299,1234,Las Vegas,NV,US,1105.1,1,false,true
+300,1234,San Francisco,CA,US,581.74,1,true,false
+301,1234,San Jose,CA,US,132.19,1,true,false
+302,1234,Huntington Beach,CA,US,1351.49,1,true,false
+303,1234,Los Angeles,CA,US,1358.76,1,true,false
+304,1234,San Francisco,CA,US,664.78,1,false,true
+305,1234,Sacramento,CA,US,1400.92,1,true,false
+306,1234,Tacoma,WA,US,768.69,1,true,false
+307,1234,Visalia,CA,US,1032.59,1,true,false
+308,1234,Sacramento,CA,US,616.29,1,false,true
+309,1234,San Diego,CA,US,1099.68,1,true,false
+310,1234,San Francisco,CA,US,1098.25,1,true,false
+311,1234,Fullerton,CA,US,248.79,1,false,true
+312,1234,Los Angeles,CA,US,1050.69,1,false,true
+313,1234,Seattle,WA,US,613.38,1,true,false
+314,1234,Sacramento,CA,US,654.6,1,false,true
+315,1234,Inglewood,CA,US,703.2,1,true,false
+316,1234,Santa Rosa,CA,US,969.8,1,true,false
+317,1234,Yakima,WA,US,875.19,1,false,true
+318,1234,North Hollywood,CA,US,424.24,1,false,true
+319,1234,San Francisco,CA,US,1267.23,1,true,false
+320,1234,Torrance,CA,US,177.06,1,true,false
+321,1234,San Jose,CA,US,369.6,1,false,true
+322,1234,Los Angeles,CA,US,224.75,1,false,true
+323,1234,Pasadena,CA,US,367.39,1,false,true
+324,1234,Sparks,NV,US,602.96,1,true,false
+325,1234,Newport Beach,CA,US,407.36,1,false,true
+326,1234,Sacramento,CA,US,707.88,1,true,false
+327,1234,Sacramento,CA,US,1316.56,1,false,true
+328,1234,Inglewood,CA,US,1395.82,1,false,true
+329,1234,Los Angeles,CA,US,245.24,1,false,true
+330,1234,Los Angeles,CA,US,54.99,1,false,true
+331,1234,Oakland,CA,US,1471.84,1,true,false
+332,1234,San Diego,CA,US,1043.18,1,true,false
+333,1234,San Jose,CA,US,759.4,1,true,false
+334,1234,Las Vegas,NV,US,747.47,1,true,false
+335,1234,Vancouver,WA,US,255.58,1,true,false
+336,1234,Spokane,WA,US,716.24,1,true,false
+337,1234,Los Angeles,CA,US,553.53,1,false,true
+338,1234,Whittier,CA,US,1389.8,1,true,false
+339,1234,Bakersfield,CA,US,582.18,1,false,true
+340,1234,Portland,OR,US,897.49,1,false,true
+341,1234,Sacramento,CA,US,8.55,1,true,false
+342,1234,San Bernardino,CA,US,113.59,1,false,true
+343,1234,San Diego,CA,US,1256.99,1,true,false
+344,1234,North Hollywood,CA,US,1482.55,1,false,true
+345,1234,Oakland,CA,US,1112.93,1,false,true
+346,1234,Riverside,CA,US,511.87,1,true,false
+347,1234,Everett,WA,US,1288.92,1,true,false
+348,1234,Los Angeles,CA,US,1410.87,1,true,false
+349,1234,Anaheim,CA,US,387.8,1,true,false
+350,1234,Pasadena,CA,US,1367.6,1,true,false
+351,1234,Fresno,CA,US,895.04,1,true,false
+352,1234,Kent,WA,US,997.57,1,false,true
+353,1234,Oceanside,CA,US,388.93,1,false,true
+354,1234,Seattle,WA,US,910.8,1,true,false
+355,1234,San Jose,CA,US,1067.25,1,true,false
+356,1234,San Jose,CA,US,508.85,1,false,true
+357,1234,Seattle,WA,US,729.17,1,false,true
+358,1234,Tacoma,WA,US,1094.9,1,true,false
+359,1234,Santa Ana,CA,US,311.83,1,false,true
+360,1234,Seattle,WA,US,463.58,1,true,false
+361,1234,Seattle,WA,US,527.07,1,true,false
+362,1234,San Rafael,CA,US,1068.79,1,true,false
+363,1234,Corona,CA,US,37.02,1,false,true
+364,1234,Henderson,NV,US,833.86,1,false,true
+365,1234,Anaheim,CA,US,569.69,1,true,false
+366,1234,Beaverton,OR,US,613.96,1,false,true
+367,1234,Salem,OR,US,327.32,1,true,false
+368,1234,San Bernardino,CA,US,664.71,1,false,true
+369,1234,Kent,WA,US,981.78,1,false,true
+370,1234,Las Vegas,NV,US,1093.69,1,true,false
+371,1234,Reno,NV,US,269.19,1,false,true
+372,1234,San Rafael,CA,US,195.19,1,false,true
+373,1234,Pasadena,CA,US,31.61,1,false,true
+374,1234,Long Beach,CA,US,1311.73,1,true,false
+375,1234,North Las Vegas,NV,US,684.26,1,true,false
+376,1234,Sacramento,CA,US,1285.73,1,true,false
+377,1234,Orange,CA,US,782.67,1,false,true
+378,1234,Alhambra,CA,US,310.72,1,false,true
+379,1234,Las Vegas,NV,US,370.54,1,false,true
+380,1234,Van Nuys,CA,US,634.37,1,true,false
+381,1234,Sacramento,CA,US,140.22,1,true,false
+382,1234,Seattle,WA,US,279.12,1,true,false
+383,1234,Portland,OR,US,1310.87,1,true,false
+384,1234,Sacramento,CA,US,1315.49,1,true,false
+385,1234,Simi Valley,CA,US,554.64,1,true,false
+386,1234,Sacramento,CA,US,819.79,1,true,false
+387,1234,Portland,OR,US,266.1,1,true,false
+388,1234,Whittier,CA,US,1039.3,1,false,true
+389,1234,Yakima,WA,US,1216.96,1,false,true
+390,1234,San Diego,CA,US,917.95,1,false,true
+391,1234,Las Vegas,NV,US,1044.22,1,true,false
+392,1234,Berkeley,CA,US,1462.51,1,false,true
+393,1234,Fresno,CA,US,1257.48,1,false,true
+394,1234,Santa Rosa,CA,US,1252.27,1,false,true
+395,1234,Long Beach,CA,US,808.91,1,false,true
+396,1234,Fresno,CA,US,288.1,1,true,false
+397,1234,San Diego,CA,US,1494.12,1,true,false
+398,1234,Portland,OR,US,172.57,1,true,false
+399,1234,Portland,OR,US,1248.72,1,false,true
+400,1234,San Jose,CA,US,117.47,1,false,true
+401,1234,Stockton,CA,US,902.38,1,false,true
+402,1234,Lancaster,CA,US,22.91,1,false,true
+403,1234,Las Vegas,NV,US,670.12,1,false,true
+404,1234,Las Vegas,NV,US,1287.86,1,true,false
+405,1234,North Las Vegas,NV,US,884.7,1,true,false
+406,1234,Olympia,WA,US,866.82,1,true,false
+407,1234,Stockton,CA,US,279.47,1,true,false
+408,1234,San Francisco,CA,US,156.56,1,false,true
+409,1234,Santa Barbara,CA,US,26.7,1,false,true
+410,1234,Tacoma,WA,US,672.02,1,true,false
+411,1234,Petaluma,CA,US,864.69,1,true,false
+412,1234,Fresno,CA,US,224.14,1,true,false
+413,1234,Spokane,WA,US,815.82,1,true,false
+414,1234,Tacoma,WA,US,808.87,1,false,true
+415,1234,Los Angeles,CA,US,657.3,1,true,false
+416,1234,Sacramento,CA,US,803.55,1,true,false
+417,1234,Van Nuys,CA,US,69.8,1,false,true
+418,1234,Bakersfield,CA,US,184.41,1,true,false
+419,1234,Santa Barbara,CA,US,870.44,1,true,false
+420,1234,San Diego,CA,US,785.03,1,true,false
+421,1234,Long Beach,CA,US,471.79,1,true,false
+422,1234,Anaheim,CA,US,1225.66,1,false,true
+423,1234,Los Angeles,CA,US,912.56,1,false,true
+424,1234,Whittier,CA,US,1398.38,1,true,false
+425,1234,Fresno,CA,US,328.81,1,true,false
+426,1234,Las Vegas,NV,US,775.83,1,false,true
+427,1234,Salinas,CA,US,238.09,1,false,true
+428,1234,Tacoma,WA,US,271.79,1,true,false
+429,1234,Los Angeles,CA,US,1045.97,1,false,true
+430,1234,Sacramento,CA,US,1384.18,1,false,true
+431,1234,Los Angeles,CA,US,459.56,1,true,false
+432,1234,Olympia,WA,US,393.95,1,true,false
+433,1234,Pasadena,CA,US,542.75,1,false,true
+434,1234,Los Angeles,CA,US,663.34,1,true,false
+435,1234,San Francisco,CA,US,983.39,1,false,true
+436,1234,Orange,CA,US,377.31,1,true,false
+437,1234,Oakland,CA,US,314.38,1,true,false
+438,1234,Los Angeles,CA,US,1322.26,1,true,false
+439,1234,Mountain View,CA,US,1069.54,1,true,false
+440,1234,San Bernardino,CA,US,28.91,1,false,true
+441,1234,San Francisco,CA,US,826.29,1,false,true
+442,1234,Los Angeles,CA,US,888.5,1,true,false
+443,1234,Los Angeles,CA,US,1025.53,1,false,true
+444,1234,Olympia,WA,US,553.47,1,true,false
+445,1234,Sacramento,CA,US,633.59,1,false,true
+446,1234,Tacoma,WA,US,1225.74,1,true,false
+447,1234,San Francisco,CA,US,958.99,1,false,true
+448,1234,Garden Grove,CA,US,62.96,1,true,false
+449,1234,Las Vegas,NV,US,1493.37,1,true,false
+450,1234,San Jose,CA,US,34.66,1,false,true
+451,1234,San Francisco,CA,US,1362.18,1,false,true
+452,1234,Fresno,CA,US,1291.58,1,false,true
+453,1234,Portland,OR,US,988.03,1,false,true
+454,1234,Bakersfield,CA,US,810.77,1,false,true
+455,1234,San Jose,CA,US,52.59,1,false,true
+456,1234,Richmond,CA,US,441.79,1,true,false
+457,1234,Reno,NV,US,325.11,1,true,false
+458,1234,Stockton,CA,US,888.02,1,false,true
+459,1234,San Francisco,CA,US,998.73,1,true,false
+460,1234,Sacramento,CA,US,285.11,1,false,true
+461,1234,Inglewood,CA,US,1314.83,1,false,true
+462,1234,Los Angeles,CA,US,627.91,1,false,true
+463,1234,Stockton,CA,US,344.37,1,false,true
+464,1234,Sacramento,CA,US,1334.1,1,true,false
+465,1234,Sacramento,CA,US,1152.42,1,false,true
+466,1234,Los Angeles,CA,US,287.5,1,false,true
+467,1234,Sacramento,CA,US,1285.0,1,false,true
+468,1234,Anaheim,CA,US,600.16,1,true,false
+469,1234,Palmdale,CA,US,1091.49,1,true,false
+470,1234,Burbank,CA,US,844.88,1,false,true
+471,1234,Simi Valley,CA,US,736.21,1,false,true
+472,1234,Irvine,CA,US,649.46,1,false,true
+473,1234,Kent,WA,US,1019.81,1,true,false
+474,1234,Riverside,CA,US,516.13,1,false,true
+475,1234,Tacoma,WA,US,1355.06,1,true,false
+476,1234,Torrance,CA,US,973.26,1,true,false
+477,1234,Modesto,CA,US,1115.11,1,true,false
+478,1234,Newport Beach,CA,US,942.3,1,true,false
+479,1234,Fresno,CA,US,850.63,1,true,false
+480,1234,Seattle,WA,US,180.73,1,false,true
+481,1234,Fresno,CA,US,47.82,1,true,false
+482,1234,Portland,OR,US,497.25,1,false,true
+483,1234,Sacramento,CA,US,920.12,1,false,true
+484,1234,Oakland,CA,US,1311.58,1,false,true
+485,1234,Oakland,CA,US,1185.33,1,false,true
+486,1234,Portland,OR,US,660.85,1,false,true
+487,1234,San Diego,CA,US,69.34,1,true,false
+488,1234,Irvine,CA,US,592.7,1,true,false
+489,1234,Spokane,WA,US,721.86,1,true,false
+490,1234,Las Vegas,NV,US,1046.69,1,false,true
+491,1234,Santa Monica,CA,US,672.44,1,true,false
+492,1234,Fresno,CA,US,433.85,1,true,false
+493,1234,San Jose,CA,US,1270.34,1,true,false
+494,1234,San Diego,CA,US,956.75,1,false,true
+495,1234,San Diego,CA,US,640.8,1,false,true
+496,1234,Oakland,CA,US,804.72,1,false,true
+497,1234,San Bernardino,CA,US,744.94,1,false,true
+498,1234,Pasadena,CA,US,1087.3,1,false,true
+499,1234,San Diego,CA,US,428.81,1,false,true
+500,1234,Portland,OR,US,34.85,1,true,false
+501,1234,Los Angeles,CA,US,689.18,1,false,true
+502,1234,Fresno,CA,US,506.98,1,false,true
+503,1234,Fresno,CA,US,1490.36,1,true,false
+504,1234,San Diego,CA,US,1395.15,1,false,true
+505,1234,Fresno,CA,US,1253.36,1,true,false
+506,1234,Santa Ana,CA,US,930.2,1,true,false
+507,1234,Bakersfield,CA,US,913.31,1,true,false
+508,1234,San Francisco,CA,US,796.46,1,false,true
+509,1234,Long Beach,CA,US,684.76,1,true,false
+510,1234,Santa Cruz,CA,US,761.12,1,true,false
+511,1234,Las Vegas,NV,US,875.8,1,true,false
+512,1234,Palmdale,CA,US,1155.18,1,true,false
+513,1234,San Diego,CA,US,1063.33,1,false,true
+514,1234,Van Nuys,CA,US,864.6,1,false,true
+515,1234,San Francisco,CA,US,253.82,1,true,false
+516,1234,Seattle,WA,US,1204.38,1,false,true
+517,1234,Garden Grove,CA,US,1196.05,1,true,false
+518,1234,Portland,OR,US,1274.6,1,false,true
+519,1234,Kent,WA,US,1293.45,1,false,true
+520,1234,San Francisco,CA,US,700.74,1,false,true
+521,1234,Irvine,CA,US,198.75,1,true,false
+522,1234,Oceanside,CA,US,169.82,1,true,false
+523,1234,Los Angeles,CA,US,1385.19,1,true,false
+524,1234,San Diego,CA,US,295.52,1,true,false
+525,1234,Salinas,CA,US,1144.96,1,true,false
+526,1234,Las Vegas,NV,US,1156.32,1,true,false
+527,1234,Las Vegas,NV,US,918.62,1,true,false
+528,1234,Modesto,CA,US,1113.71,1,true,false
+529,1234,Seattle,WA,US,296.39,1,false,true
+530,1234,Los Angeles,CA,US,1099.59,1,true,false
+531,1234,San Bernardino,CA,US,71.69,1,false,true
+532,1234,Los Angeles,CA,US,1470.38,1,false,true
+533,1234,Portland,OR,US,1228.19,1,false,true
+534,1234,San Francisco,CA,US,545.37,1,true,false
+535,1234,Tacoma,WA,US,848.63,1,true,false
+536,1234,South Lake Tahoe,CA,US,1054.57,1,false,true
+537,1234,Las Vegas,NV,US,685.25,1,false,true
+538,1234,Reno,NV,US,880.18,1,true,false
+539,1234,Santa Barbara,CA,US,977.41,1,false,true
+540,1234,San Diego,CA,US,645.79,1,false,true
+541,1234,Oakland,CA,US,1499.21,1,true,false
+542,1234,San Jose,CA,US,1188.62,1,false,true
+543,1234,Visalia,CA,US,723.16,1,false,true
+544,1234,Los Angeles,CA,US,1162.84,1,true,false
+545,1234,Mountain View,CA,US,950.88,1,true,false
+546,1234,Tacoma,WA,US,1083.85,1,false,true
+547,1234,Stockton,CA,US,1030.35,1,false,true
+548,1234,Orange,CA,US,407.78,1,false,true
+549,1234,San Bernardino,CA,US,1224.58,1,false,true
+550,1234,Sparks,NV,US,1028.71,1,false,true
+551,1234,San Francisco,CA,US,1093.73,1,true,false
+552,1234,Reno,NV,US,1204.15,1,true,false
+553,1234,Sacramento,CA,US,1316.31,1,true,false
+554,1234,Las Vegas,NV,US,1281.6,1,false,true
+555,1234,Modesto,CA,US,209.34,1,true,false
+556,1234,San Bernardino,CA,US,1157.75,1,true,false
+557,1234,Fresno,CA,US,400.33,1,true,false
+558,1234,San Luis Obispo,CA,US,1077.81,1,true,false
+559,1234,Burbank,CA,US,760.17,1,true,false
+560,1234,Everett,WA,US,324.48,1,true,false
+561,1234,Spokane,WA,US,24.44,1,true,false
+562,1234,Los Angeles,CA,US,1423.36,1,true,false
+563,1234,Henderson,NV,US,61.91,1,true,false
+564,1234,Los Angeles,CA,US,658.75,1,true,false
+565,1234,Pasadena,CA,US,952.1,1,false,true
+566,1234,Irvine,CA,US,586.81,1,false,true
+567,1234,Los Angeles,CA,US,636.0,1,true,false
+568,1234,Las Vegas,NV,US,215.0,1,false,true
+569,1234,Spokane,WA,US,222.67,1,true,false
+570,1234,San Diego,CA,US,1321.84,1,false,true
+571,1234,Henderson,NV,US,1102.91,1,false,true
+572,1234,Palo Alto,CA,US,1234.03,1,false,true
+573,1234,Oakland,CA,US,955.81,1,true,false
+574,1234,Irvine,CA,US,982.4,1,true,false
+575,1234,Oakland,CA,US,1045.17,1,true,false
+576,1234,San Mateo,CA,US,805.65,1,false,true
+577,1234,Northridge,CA,US,1243.47,1,false,true
+578,1234,San Francisco,CA,US,1335.38,1,true,false
+579,1234,Fresno,CA,US,1117.83,1,false,true
+580,1234,Seattle,WA,US,159.56,1,false,true
+581,1234,Van Nuys,CA,US,974.19,1,true,false
+582,1234,Portland,OR,US,1436.6,1,true,false
+583,1234,San Francisco,CA,US,12.1,1,true,false
+584,1234,Berkeley,CA,US,255.38,1,false,true
+585,1234,Sunnyvale,CA,US,1131.64,1,true,false
+586,1234,Pasadena,CA,US,887.41,1,false,true
+587,1234,San Diego,CA,US,848.32,1,true,false
+588,1234,Palmdale,CA,US,255.38,1,true,false
+589,1234,Seattle,WA,US,1291.73,1,true,false
+590,1234,San Diego,CA,US,424.25,1,false,true
+591,1234,San Diego,CA,US,347.53,1,false,true
+592,1234,Oxnard,CA,US,1468.01,1,false,true
+593,1234,Alhambra,CA,US,1246.99,1,true,false
+594,1234,Salem,OR,US,186.41,1,true,false
+595,1234,Concord,CA,US,210.57,1,true,false
+596,1234,San Jose,CA,US,213.12,1,false,true
+597,1234,Sacramento,CA,US,42.7,1,false,true
+598,1234,San Diego,CA,US,173.82,1,false,true
+599,1234,Portland,OR,US,1177.95,1,true,false
+600,1234,Sacramento,CA,US,1373.59,1,false,true
+601,1234,Bakersfield,CA,US,1450.3,1,false,true
+602,1234,Oakland,CA,US,299.33,1,true,false
+603,1234,Bakersfield,CA,US,70.04,1,false,true
+604,1234,Los Angeles,CA,US,202.91,1,false,true
+605,1234,Oakland,CA,US,744.11,1,true,false
+606,1234,Pasadena,CA,US,634.29,1,false,true
+607,1234,Las Vegas,NV,US,518.62,1,false,true
+608,1234,Vancouver,WA,US,821.18,1,true,false
+609,1234,Whittier,CA,US,430.84,1,true,false
+610,1234,Bakersfield,CA,US,444.39,1,false,true
+611,1234,Carson City,NV,US,288.88,1,true,false
+612,1234,Sacramento,CA,US,1465.95,1,false,true
+613,1234,Seattle,WA,US,385.7,1,true,false
+614,1234,Escondido,CA,US,1472.43,1,false,true
+615,1234,Eugene,OR,US,631.04,1,true,false
+616,1234,Las Vegas,NV,US,1172.54,1,false,true
+617,1234,Los Angeles,CA,US,1317.62,1,true,false
+618,1234,Long Beach,CA,US,1008.97,1,true,false
+619,1234,Spokane,WA,US,727.26,1,true,false
+620,1234,Sacramento,CA,US,189.76,1,false,true
+621,1234,Modesto,CA,US,721.38,1,true,false
+622,1234,Las Vegas,NV,US,567.42,1,false,true
+623,1234,Glendale,CA,US,1143.04,1,false,true
+624,1234,Fresno,CA,US,281.17,1,false,true
+625,1234,Tacoma,WA,US,789.36,1,true,false
+626,1234,Portland,OR,US,105.32,1,false,true
+627,1234,San Diego,CA,US,527.05,1,true,false
+628,1234,San Francisco,CA,US,1034.38,1,false,true
+629,1234,Fresno,CA,US,1186.92,1,true,false
+630,1234,Oxnard,CA,US,1385.02,1,true,false
+631,1234,Los Angeles,CA,US,926.59,1,false,true
+632,1234,San Diego,CA,US,399.62,1,true,false
+633,1234,Sacramento,CA,US,394.65,1,true,false
+634,1234,Las Vegas,NV,US,1341.07,1,true,false
+635,1234,Sacramento,CA,US,1261.89,1,true,false
+636,1234,Fresno,CA,US,775.55,1,true,false
+637,1234,San Diego,CA,US,1153.52,1,false,true
+638,1234,Santa Barbara,CA,US,505.35,1,false,true
+639,1234,Bakersfield,CA,US,697.22,1,true,false
+640,1234,Fresno,CA,US,629.72,1,false,true
+641,1234,Portland,OR,US,385.83,1,true,false
+642,1234,Visalia,CA,US,1077.54,1,false,true
+643,1234,San Diego,CA,US,1441.62,1,true,false
+644,1234,Van Nuys,CA,US,297.4,1,false,true
+645,1234,Los Angeles,CA,US,1178.7,1,true,false
+646,1234,Portland,OR,US,966.01,1,false,true
+647,1234,Bakersfield,CA,US,375.9,1,true,false
+648,1234,Eugene,OR,US,647.74,1,false,true
+649,1234,Pasadena,CA,US,6.12,1,false,true
+650,1234,Orange,CA,US,474.64,1,true,false
+651,1234,San Rafael,CA,US,1326.42,1,true,false
+652,1234,Los Angeles,CA,US,687.29,1,true,false
+653,1234,Sacramento,CA,US,1034.75,1,true,false
+654,1234,Los Angeles,CA,US,1346.11,1,false,true
+655,1234,San Jose,CA,US,718.66,1,false,true
+656,1234,San Diego,CA,US,1305.52,1,false,true
+657,1234,San Francisco,CA,US,1134.07,1,true,false
+658,1234,Las Vegas,NV,US,711.64,1,false,true
+659,1234,Riverside,CA,US,241.57,1,true,false
+660,1234,Oakland,CA,US,15.53,1,true,false
+661,1234,Long Beach,CA,US,330.41,1,false,true
+662,1234,San Bernardino,CA,US,926.06,1,false,true
+663,1234,Sacramento,CA,US,918.31,1,true,false
+664,1234,San Diego,CA,US,1458.01,1,true,false
+665,1234,Glendale,CA,US,1119.7,1,false,true
+666,1234,Las Vegas,NV,US,927.98,1,false,true
+667,1234,Redwood City,CA,US,367.32,1,false,true
+668,1234,Bakersfield,CA,US,692.19,1,true,false
+669,1234,San Bernardino,CA,US,504.44,1,false,true
+670,1234,San Diego,CA,US,1213.75,1,false,true
+671,1234,Sacramento,CA,US,1423.57,1,true,false
+672,1234,San Francisco,CA,US,1463.84,1,false,true
+673,1234,Long Beach,CA,US,1400.75,1,true,false
+674,1234,San Rafael,CA,US,1227.67,1,false,true
+675,1234,San Diego,CA,US,637.4,1,false,true
+676,1234,San Diego,CA,US,264.96,1,true,false
+677,1234,Petaluma,CA,US,1212.68,1,false,true
+678,1234,Eugene,OR,US,1006.22,1,false,true
+679,1234,Los Angeles,CA,US,709.98,1,true,false
+680,1234,Tacoma,WA,US,1058.38,1,true,false
+681,1234,Irvine,CA,US,1047.88,1,false,true
+682,1234,San Francisco,CA,US,1334.33,1,true,false
+683,1234,Modesto,CA,US,601.17,1,false,true
+684,1234,San Jose,CA,US,1357.78,1,true,false
+685,1234,Santa Cruz,CA,US,643.71,1,false,true
+686,1234,San Diego,CA,US,196.99,1,true,false
+687,1234,North Las Vegas,NV,US,1334.53,1,true,false
+688,1234,Oakland,CA,US,601.66,1,false,true
+689,1234,Visalia,CA,US,957.54,1,false,true
+690,1234,Modesto,CA,US,1419.31,1,false,true
+691,1234,Visalia,CA,US,629.91,1,false,true
+692,1234,Seattle,WA,US,37.42,1,false,true
+693,1234,Tacoma,WA,US,111.41,1,false,true
+694,1234,Portland,OR,US,991.44,1,false,true
+695,1234,Corona,CA,US,393.94,1,true,false
+696,1234,San Bernardino,CA,US,1377.43,1,false,true
+697,1234,Sacramento,CA,US,566.0,1,true,false
+698,1234,Tacoma,WA,US,978.33,1,false,true
+699,1234,Sacramento,CA,US,1410.51,1,true,false
+700,1234,Las Vegas,NV,US,67.22,1,true,false
+701,1234,Oakland,CA,US,1132.97,1,true,false
+702,1234,Vancouver,WA,US,4.49,1,true,false
+703,1234,Anaheim,CA,US,1265.88,1,false,true
+704,1234,Orange,CA,US,1127.05,1,true,false
+705,1234,South Lake Tahoe,CA,US,611.71,1,true,false
+706,1234,Huntington Beach,CA,US,580.21,1,false,true
+707,1234,Fresno,CA,US,62.27,1,false,true
+708,1234,Oakland,CA,US,826.39,1,true,false
+709,1234,Corona,CA,US,1291.37,1,true,false
+710,1234,San Diego,CA,US,808.51,1,true,false
+711,1234,Huntington Beach,CA,US,92.48,1,false,true
+712,1234,Stockton,CA,US,646.09,1,true,false
+713,1234,San Jose,CA,US,1452.69,1,false,true
+714,1234,Stockton,CA,US,356.65,1,false,true
+715,1234,Portland,OR,US,844.5,1,false,true
+716,1234,San Francisco,CA,US,183.37,1,true,false
+717,1234,San Diego,CA,US,1375.49,1,false,true
+718,1234,Fresno,CA,US,1145.49,1,true,false
+719,1234,Spokane,WA,US,985.34,1,true,false
+720,1234,San Bernardino,CA,US,1353.03,1,false,true
+721,1234,San Jose,CA,US,614.44,1,false,true
+722,1234,Pomona,CA,US,940.34,1,true,false
+723,1234,Moreno Valley,CA,US,1155.53,1,true,false
+724,1234,Stockton,CA,US,1005.97,1,true,false
+725,1234,Orange,CA,US,791.8,1,false,true
+726,1234,Salem,OR,US,760.26,1,true,false
+727,1234,San Francisco,CA,US,358.28,1,false,true
+728,1234,North Hollywood,CA,US,914.74,1,true,false
+729,1234,Las Vegas,NV,US,171.05,1,false,true
+730,1234,Fresno,CA,US,1278.81,1,true,false
+731,1234,Bakersfield,CA,US,1217.62,1,false,true
+732,1234,Fresno,CA,US,638.6,1,true,false
+733,1234,Seattle,WA,US,116.95,1,true,false
+734,1234,Fresno,CA,US,303.73,1,false,true
+735,1234,San Diego,CA,US,981.49,1,true,false
+736,1234,Reno,NV,US,232.63,1,true,false
+737,1234,Seattle,WA,US,685.15,1,false,true
+738,1234,Santa Rosa,CA,US,1400.96,1,false,true
+739,1234,Los Angeles,CA,US,116.83,1,false,true
+740,1234,Los Angeles,CA,US,1064.45,1,true,false
+741,1234,Riverside,CA,US,265.81,1,true,false
+742,1234,North Las Vegas,NV,US,898.55,1,false,true
+743,1234,Van Nuys,CA,US,152.06,1,false,true
+744,1234,Richmond,CA,US,1443.92,1,false,true
+745,1234,Carlsbad,CA,US,1111.51,1,false,true
+746,1234,Pasadena,CA,US,1172.66,1,true,false
+747,1234,Sacramento,CA,US,1047.43,1,false,true
+748,1234,San Diego,CA,US,120.68,1,false,true
+749,1234,San Luis Obispo,CA,US,1082.5,1,false,true
+750,1234,Sacramento,CA,US,974.28,1,true,false
+751,1234,Sacramento,CA,US,952.4,1,true,false
+752,1234,San Rafael,CA,US,615.16,1,false,true
+753,1234,Pasadena,CA,US,1060.23,1,false,true
+754,1234,Portland,OR,US,283.27,1,true,false
+755,1234,Bellevue,WA,US,1008.01,1,false,true
+756,1234,Fresno,CA,US,778.18,1,true,false
+757,1234,Anaheim,CA,US,51.94,1,false,true
+758,1234,Las Vegas,NV,US,1025.79,1,false,true
+759,1234,Tacoma,WA,US,611.99,1,true,false
+760,1234,Hayward,CA,US,801.25,1,false,true
+761,1234,San Francisco,CA,US,67.2,1,false,true
+762,1234,Ventura,CA,US,972.18,1,false,true
+763,1234,Lakewood,WA,US,313.88,1,true,false
+764,1234,Torrance,CA,US,1382.44,1,true,false
+765,1234,Anaheim,CA,US,929.99,1,true,false
+766,1234,Los Angeles,CA,US,1352.91,1,true,false
+767,1234,Beaverton,OR,US,1165.54,1,false,true
+768,1234,San Francisco,CA,US,1184.4,1,false,true
+769,1234,Glendale,CA,US,900.88,1,true,false
+770,1234,Concord,CA,US,330.32,1,true,false
+771,1234,Las Vegas,NV,US,68.67,1,true,false
+772,1234,Irvine,CA,US,1337.3,1,true,false
+773,1234,Spokane,WA,US,726.93,1,true,false
+774,1234,Las Vegas,NV,US,1130.45,1,false,true
+775,1234,Anaheim,CA,US,1286.72,1,false,true
+776,1234,Tacoma,WA,US,560.05,1,true,false
+777,1234,Simi Valley,CA,US,511.85,1,false,true
+778,1234,Riverside,CA,US,158.05,1,true,false
+779,1234,Portland,OR,US,515.77,1,false,true
+780,1234,Las Vegas,NV,US,59.69,1,false,true
+781,1234,Reno,NV,US,853.55,1,false,true
+782,1234,Anaheim,CA,US,567.21,1,true,false
+783,1234,Fresno,CA,US,357.77,1,false,true
+784,1234,Salem,OR,US,1379.61,1,false,true
+785,1234,San Jose,CA,US,430.14,1,true,false
+786,1234,Santa Barbara,CA,US,922.7,1,true,false
+787,1234,Sacramento,CA,US,1038.54,1,false,true
+788,1234,Santa Barbara,CA,US,773.03,1,false,true
+789,1234,Tacoma,WA,US,269.24,1,true,false
+790,1234,Los Angeles,CA,US,1319.3,1,false,true
+791,1234,Fresno,CA,US,1391.24,1,false,true
+792,1234,Palo Alto,CA,US,1118.55,1,true,false
+793,1234,Corona,CA,US,1324.37,1,false,true
+794,1234,San Jose,CA,US,1019.18,1,false,true
+795,1234,Vancouver,WA,US,475.78,1,true,false
+796,1234,San Diego,CA,US,1355.25,1,true,false
+797,1234,Inglewood,CA,US,1028.86,1,true,false
+798,1234,Los Angeles,CA,US,1016.05,1,false,true
+799,1234,Reno,NV,US,963.11,1,true,false
+800,1234,Las Vegas,NV,US,661.89,1,true,false
+801,1234,Fullerton,CA,US,553.6,1,true,false
+802,1234,San Jose,CA,US,70.32,1,true,false
+803,1234,Los Angeles,CA,US,941.91,1,true,false
+804,1234,Sacramento,CA,US,15.96,1,true,false
+805,1234,Van Nuys,CA,US,490.99,1,true,false
+806,1234,Oceanside,CA,US,1097.34,1,false,true
+807,1234,Bakersfield,CA,US,971.15,1,true,false
+808,1234,San Francisco,CA,US,965.1,1,true,false
+809,1234,Seattle,WA,US,1211.18,1,true,false
+810,1234,Spokane,WA,US,957.56,1,false,true
+811,1234,Bakersfield,CA,US,1472.94,1,true,false
+812,1234,Pasadena,CA,US,27.03,1,false,true
+813,1234,North Hollywood,CA,US,154.93,1,false,true
+814,1234,Riverside,CA,US,1140.0,1,true,false
+815,1234,San Mateo,CA,US,1343.25,1,false,true
+816,1234,Santa Ana,CA,US,1349.26,1,false,true
+817,1234,Seattle,WA,US,846.82,1,true,false
+818,1234,Santa Barbara,CA,US,757.11,1,true,false
+819,1234,Salem,OR,US,1152.45,1,false,true
+820,1234,Glendale,CA,US,838.33,1,false,true
+821,1234,Orange,CA,US,94.56,1,false,true
+822,1234,San Bernardino,CA,US,1398.78,1,false,true
+823,1234,Portland,OR,US,1192.31,1,false,true
+824,1234,Fresno,CA,US,276.77,1,true,false
+825,1234,Salinas,CA,US,761.39,1,true,false
+826,1234,Vancouver,WA,US,1105.53,1,false,true
+827,1234,Santa Rosa,CA,US,1028.52,1,false,true
+828,1234,Reno,NV,US,1128.69,1,false,true
+829,1234,Oakland,CA,US,1247.35,1,false,true
+830,1234,Los Angeles,CA,US,1026.03,1,true,false
+831,1234,Sacramento,CA,US,946.37,1,false,true
+832,1234,Portland,OR,US,376.04,1,true,false
+833,1234,Santa Ana,CA,US,550.86,1,true,false
+834,1234,Las Vegas,NV,US,528.94,1,false,true
+835,1234,Los Angeles,CA,US,1187.39,1,false,true
+836,1234,Whittier,CA,US,203.15,1,true,false
+837,1234,San Francisco,CA,US,847.95,1,false,true
+838,1234,San Diego,CA,US,949.01,1,true,false
+839,1234,Yakima,WA,US,356.04,1,false,true
+840,1234,Anaheim,CA,US,47.83,1,false,true
+841,1234,South Lake Tahoe,CA,US,1106.07,1,false,true
+842,1234,Yakima,WA,US,1348.14,1,false,true
+843,1234,Anaheim,CA,US,1142.75,1,false,true
+844,1234,Pasadena,CA,US,599.31,1,true,false
+845,1234,Portland,OR,US,1464.43,1,true,false
+846,1234,San Francisco,CA,US,431.04,1,true,false
+847,1234,Sacramento,CA,US,843.67,1,true,false
+848,1234,Redwood City,CA,US,887.18,1,true,false
+849,1234,North Hollywood,CA,US,1072.79,1,false,true
+850,1234,Seattle,WA,US,268.06,1,false,true
+851,1234,Stockton,CA,US,632.46,1,true,false
+852,1234,San Bernardino,CA,US,54.59,1,false,true
+853,1234,Los Angeles,CA,US,1079.07,1,false,true
+854,1234,Fresno,CA,US,1355.12,1,false,true
+855,1234,Anaheim,CA,US,1402.64,1,true,false
+856,1234,Fresno,CA,US,649.62,1,true,false
+857,1234,San Jose,CA,US,117.12,1,true,false
+858,1234,San Jose,CA,US,1099.12,1,true,false
+859,1234,Berkeley,CA,US,972.31,1,true,false
+860,1234,Sacramento,CA,US,636.77,1,true,false
+861,1234,San Francisco,CA,US,1075.99,1,true,false
+862,1234,San Jose,CA,US,104.53,1,true,false
+863,1234,Santa Ana,CA,US,427.7,1,false,true
+864,1234,San Jose,CA,US,573.95,1,true,false
+865,1234,San Francisco,CA,US,329.4,1,false,true
+866,1234,Las Vegas,NV,US,178.25,1,false,true
+867,1234,Whittier,CA,US,231.23,1,false,true
+868,1234,Whittier,CA,US,671.52,1,true,false
+869,1234,San Bernardino,CA,US,592.83,1,true,false
+870,1234,Spokane,WA,US,223.19,1,false,true
+871,1234,San Jose,CA,US,1131.53,1,false,true
+872,1234,San Francisco,CA,US,558.23,1,false,true
+873,1234,Sacramento,CA,US,45.16,1,true,false
+874,1234,San Jose,CA,US,781.44,1,true,false
+875,1234,Santa Barbara,CA,US,1177.35,1,false,true
+876,1234,Portland,OR,US,409.71,1,false,true
+877,1234,Moreno Valley,CA,US,1324.66,1,true,false
+878,1234,San Diego,CA,US,1322.11,1,true,false
+879,1234,Las Vegas,NV,US,1282.94,1,false,true
+880,1234,Whittier,CA,US,1043.99,1,false,true
+881,1234,San Francisco,CA,US,196.07,1,false,true
+882,1234,Portland,OR,US,871.41,1,false,true
+883,1234,Santa Cruz,CA,US,394.38,1,false,true
+884,1234,Burbank,CA,US,652.13,1,false,true
+885,1234,Las Vegas,NV,US,931.63,1,true,false
+886,1234,Los Angeles,CA,US,739.67,1,false,true
+887,1234,Lancaster,CA,US,64.89,1,true,false
+888,1234,Whittier,CA,US,1314.44,1,true,false
+889,1234,San Diego,CA,US,1374.48,1,true,false
+890,1234,Henderson,NV,US,696.59,1,true,false
+891,1234,Fresno,CA,US,1421.69,1,false,true
+892,1234,San Jose,CA,US,1269.8,1,false,true
+893,1234,San Diego,CA,US,1197.01,1,true,false
+894,1234,Los Angeles,CA,US,1188.7,1,true,false
+895,1234,Sacramento,CA,US,923.04,1,true,false
+896,1234,Los Angeles,CA,US,886.85,1,true,false
+897,1234,Los Angeles,CA,US,931.1,1,true,false
+898,1234,Seattle,WA,US,683.46,1,true,false
+899,1234,San Bernardino,CA,US,1060.23,1,false,true
+900,1234,Petaluma,CA,US,602.61,1,false,true
+901,1234,Reno,NV,US,1394.45,1,true,false
+902,1234,Las Vegas,NV,US,658.97,1,true,false
+903,1234,San Diego,CA,US,436.82,1,false,true
+904,1234,Sunnyvale,CA,US,1290.07,1,false,true
+905,1234,Portland,OR,US,1476.8,1,false,true
+906,1234,Pasadena,CA,US,1217.2,1,false,true
+907,1234,Stockton,CA,US,482.77,1,false,true
+908,1234,Tacoma,WA,US,1381.26,1,false,true
+909,1234,North Las Vegas,NV,US,129.82,1,true,false
+910,1234,San Diego,CA,US,409.49,1,true,false
+911,1234,Henderson,NV,US,439.59,1,true,false
+912,1234,San Luis Obispo,CA,US,376.18,1,true,false
+913,1234,Lancaster,CA,US,17.8,1,true,false
+914,1234,San Diego,CA,US,119.29,1,true,false
+915,1234,Fresno,CA,US,992.44,1,false,true
+916,1234,Long Beach,CA,US,362.64,1,false,true
+917,1234,San Luis Obispo,CA,US,560.22,1,true,false
+918,1234,Fresno,CA,US,576.52,1,false,true
+919,1234,Pomona,CA,US,1061.19,1,false,true
+920,1234,Tacoma,WA,US,1062.57,1,false,true
+921,1234,Concord,CA,US,1491.69,1,true,false
+922,1234,Petaluma,CA,US,997.77,1,true,false
+923,1234,San Diego,CA,US,1137.71,1,true,false
+924,1234,Fresno,CA,US,992.66,1,true,false
+925,1234,Portland,OR,US,154.09,1,true,false
+926,1234,Newport Beach,CA,US,545.53,1,false,true
+927,1234,Portland,OR,US,877.21,1,true,false
+928,1234,South Lake Tahoe,CA,US,307.34,1,false,true
+929,1234,Orange,CA,US,552.08,1,false,true
+930,1234,Fresno,CA,US,110.31,1,false,true
+931,1234,Whittier,CA,US,803.76,1,false,true
+932,1234,San Diego,CA,US,268.09,1,false,true
+933,1234,Portland,OR,US,884.12,1,true,false
+934,1234,Los Angeles,CA,US,1340.65,1,false,true
+935,1234,Van Nuys,CA,US,236.35,1,true,false
+936,1234,Los Angeles,CA,US,1495.49,1,false,true
+937,1234,Irvine,CA,US,119.06,1,false,true
+938,1234,Glendale,CA,US,222.8,1,true,false
+939,1234,San Diego,CA,US,1335.63,1,true,false
+940,1234,San Francisco,CA,US,931.51,1,true,false
+941,1234,San Francisco,CA,US,1146.44,1,false,true
+942,1234,San Jose,CA,US,285.73,1,false,true
+943,1234,Fresno,CA,US,746.91,1,false,true
+944,1234,Ventura,CA,US,923.47,1,false,true
+945,1234,Oakland,CA,US,1187.98,1,true,false
+946,1234,Los Angeles,CA,US,213.33,1,false,true
+947,1234,Concord,CA,US,558.4,1,false,true
+948,1234,San Diego,CA,US,86.23,1,true,false
+949,1234,Salinas,CA,US,508.33,1,false,true
+950,1234,Modesto,CA,US,1204.71,1,true,false
+951,1234,San Bernardino,CA,US,235.25,1,true,false
+952,1234,San Jose,CA,US,984.32,1,false,true
+953,1234,Spokane,WA,US,109.96,1,true,false
+954,1234,Santa Barbara,CA,US,285.87,1,false,true
+955,1234,Stockton,CA,US,768.55,1,false,true
+956,1234,Sacramento,CA,US,1187.0,1,false,true
+957,1234,Garden Grove,CA,US,851.79,1,false,true
+958,1234,Long Beach,CA,US,700.48,1,false,true
+959,1234,Santa Monica,CA,US,333.1,1,true,false
+960,1234,Orange,CA,US,638.91,1,true,false
+961,1234,Simi Valley,CA,US,1124.17,1,false,true
+962,1234,Burbank,CA,US,987.62,1,false,true
+963,1234,Lancaster,CA,US,919.26,1,true,false
+964,1234,Reno,NV,US,578.08,1,true,false
+965,1234,Sunnyvale,CA,US,226.31,1,false,true
+966,1234,Kent,WA,US,754.8,1,true,false
+967,1234,Alhambra,CA,US,1304.63,1,true,false
+968,1234,Oxnard,CA,US,534.67,1,false,true
+969,1234,Richmond,CA,US,583.1,1,false,true
+970,1234,Portland,OR,US,400.97,1,true,false
+971,1234,Los Angeles,CA,US,86.47,1,false,true
+972,1234,Inglewood,CA,US,645.64,1,false,true
+973,1234,Reno,NV,US,1004.82,1,false,true
+974,1234,Torrance,CA,US,605.37,1,true,false
+975,1234,Las Vegas,NV,US,156.24,1,true,false
+976,1234,Van Nuys,CA,US,1204.9,1,false,true
+977,1234,Riverside,CA,US,296.15,1,false,true
+978,1234,Bakersfield,CA,US,1459.34,1,false,true
+979,1234,Portland,OR,US,722.98,1,true,false
+980,1234,Mountain View,CA,US,121.04,1,false,true
+981,1234,Burbank,CA,US,910.13,1,true,false
+982,1234,Inglewood,CA,US,112.55,1,false,true
+983,1234,Torrance,CA,US,505.17,1,true,false
+984,1234,Los Angeles,CA,US,580.21,1,false,true
+985,1234,Pasadena,CA,US,1352.05,1,true,false
+986,1234,Olympia,WA,US,815.81,1,true,false
+987,1234,Vancouver,WA,US,1060.72,1,false,true
+988,1234,Orange,CA,US,623.94,1,true,false
+989,1234,San Francisco,CA,US,1442.36,1,true,false
+990,1234,San Diego,CA,US,192.75,1,true,false
+991,1234,Ventura,CA,US,663.18,1,true,false
+992,1234,San Jose,CA,US,1200.19,1,true,false
+993,1234,San Diego,CA,US,327.63,1,true,false
+994,1234,Chula Vista,CA,US,240.21,1,false,true
+995,1234,Carlsbad,CA,US,395.44,1,true,false
+996,1234,Sacramento,CA,US,292.65,1,true,false
+997,1234,Richmond,CA,US,554.01,1,true,false
+998,1234,Portland,OR,US,635.81,1,true,false
+999,1234,San Diego,CA,US,1380.44,1,false,true
+1000,1234,Reno,NV,US,30.17,1,true,false
